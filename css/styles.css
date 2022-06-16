@@ -1,15 +1,8 @@
-* {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    outline: 0;
-    font-size: 100%;
-    vertical-align: auto;
+body {
+background-color: aqua;
+border-style:dotted;
 }
 
-html {
-    font-family: cursive;
-}
 
 p {
     color: red;

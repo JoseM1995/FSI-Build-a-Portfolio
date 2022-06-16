@@ -1,5 +1,19 @@
+div {
+    line-height: ;
+    background: darkgreen;
+    border-style: solid;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    border-style: dashed;
+}
+
 body {
-background-color: aqua;
+background-color: rgb(213, 52, 20);
 border-style:dotted;
 }
 
